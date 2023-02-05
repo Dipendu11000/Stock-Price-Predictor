@@ -1,8 +1,4 @@
-
 requests
 streamlit
 yfinance
 sklearn
-keras
-pandas
-numpy
